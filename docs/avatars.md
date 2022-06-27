@@ -1,8 +1,18 @@
 ---
-sidebar_position: 5
+sidebar_position: 3
 ---
 
-# TND - Characters 
+# Avatars
+
+_Bind a new entity to do your bidding, your Avatar will walk The Neon Desert as an extension of your will_
+
+## Overview
+
+Avatars are the main way to interact with The Neon Desert. They are sent on expeditions and to encounters, gaining skills and resources on their way.
+
+## Cost
+
+New blank Avatars cost 1 NEON to create and contain lvl 1 in all skills and have no bonuses.
 
 Low barrier to entry
 Base character costs 1 NEON to create

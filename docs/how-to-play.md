@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# The Neon Desert
+# How to Play
 
 The Neon Desert is a blockchain based game, requiring real crypto and a smart dApp browser
 
@@ -36,11 +36,7 @@ You need to connect your Metamask to Harmony in order to interact with dApps on 
 
 ### Live RPC
 
-rpc address, hermes and official?
-
-### Test RPC
-
-rpc address
+rpc address how to add
 
 ## How to get Neon
 
@@ -73,7 +69,7 @@ click connect in game, see how it doesn't cost anything or say anything weird, c
 
 Let's create a Character first, as they're needed for most actions in The Neon Desert
 
-1. Click on the Characters page and select Create
+1. Click on the Avatars page and select Create
 1. Select a name for your Character
 1. accept tx
 1. watch progress

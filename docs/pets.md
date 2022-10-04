@@ -1,8 +1,10 @@
 ---
-sidebar_position: 6
+sidebar_position: 15
 ---
 
 # Pets
+
+** 1% designed and built **
 
 Pet NFT, send to Character NFT
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Recompile
 
-** planned release mid-2023, 5% designed and built **
+** 15% designed and built **
 
 > Recompile your Avatar to harness their wisdom
 
@@ -26,7 +26,7 @@ The primary soul bonuses available on Recompile are specific to the skill you ar
 
 The base cost to recompile is 1 NEON and will increase the skill cap of ALL skills at their current max
 
-You can pay an additional 1 NEON per skill to raise its stats in speed production and experience gain
+You can pay an additional 1 NEON per skill to raise its stats in production and experience gain
 
 ## Misc
 

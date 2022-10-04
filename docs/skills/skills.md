@@ -10,5 +10,4 @@ Chopping wood? Gain woodcutting experience
 Mining for ore? Gain mining experience...
 
 Skills level from 1-100, with a maximum of 700 per Character
-These are both soft-caps and can be increased via Souls
-
+Skill point above 100 in each skill don't count towards your caps

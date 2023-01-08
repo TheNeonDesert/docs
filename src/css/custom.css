@@ -93,6 +93,11 @@ main {
 
 /* HEADER */
 
+.navbar__logo {
+  height: 50px;
+  margin-top: -4px;
+}
+
 .navbar--fixed-top {
   box-shadow: 0 2px 37px 0 rgba(87, 152, 181, 0.6);
   border: solid 1px var(--teal-500);
@@ -108,7 +113,7 @@ main {
   text-transform: uppercase;
   font-size: 16px;
   font-weight: 600;
-  line-height: 3;
+  line-height: 2;
   letter-spacing: 1.14px;
   color: var(--teal-250);
 }

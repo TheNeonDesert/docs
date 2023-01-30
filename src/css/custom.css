@@ -93,6 +93,15 @@ main {
 
 /* HEADER */
 
+/* make play game button show on all viewports */
+div.navbar__items.navbar__items--right > * {
+  display: block;
+  position: inherit;
+}
+button.navbar-sidebar__back {
+  display: none;
+}
+
 .navbar__logo {
   height: 50px;
   margin-top: -4px;
